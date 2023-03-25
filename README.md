@@ -1,10 +1,5 @@
 # github-final-project
 git hub demo project for Coursera 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+A zomato clone app with HTML and CSS
 
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
+
